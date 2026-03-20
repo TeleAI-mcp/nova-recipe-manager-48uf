@@ -1,2 +1,3 @@
-# nova-recipe-manager-48uf
-A recipe management application for modern development workflows
+# Nova Recipe Manager 48Uf
+
+A recipe management application for modern development workflows.
